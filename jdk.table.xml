@@ -1,0 +1,341 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="11" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;11.0.3&quot;" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://G:/ideaIU/jbr!/java.base" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.compiler" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.desktop" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.instrument" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.logging" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.management" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.naming" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.net.http" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.prefs" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.rmi" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.scripting" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.se" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.sql" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.xml" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/javafx.base" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/javafx.controls" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/javafx.fxml" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/javafx.graphics" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/javafx.media" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/javafx.swing" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/javafx.web" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.aot" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.management" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.net" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.pack" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.scripting.nashorn" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.scripting.nashorn.shell" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://G:/ideaIU/jbr!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_151&quot;" />
+      <homePath value="G:/java-1.8.0-openjdk-1.8.0.151-1.b12" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/jre/lib/rt.jar!/" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/docs/api" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="jar://G:/java-1.8.0-openjdk-1.8.0.151-1.b12/src.zip!/" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 18 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.3&quot;" />
+      <homePath value="G:\Android\sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/Android/sdk/platforms/android-18/android.jar!/" type="simple" />
+            <root url="file://G:/Android/sdk/platforms/android-18/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/sources/android-18" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-18" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 22 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.3&quot;" />
+      <homePath value="G:\Android\sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/Android/sdk/platforms/android-22/android.jar!/" type="simple" />
+            <root url="file://G:/Android/sdk/platforms/android-22/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/sources/android-22" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-22" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.3&quot;" />
+      <homePath value="G:\Android\sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/Android/sdk/platforms/android-23/android.jar!/" type="simple" />
+            <root url="file://G:/Android/sdk/platforms/android-23/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-23" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 24 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.3&quot;" />
+      <homePath value="G:\Android\sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/Android/sdk/platforms/android-24/android.jar!/" type="simple" />
+            <root url="file://G:/Android/sdk/platforms/android-24/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/sources/android-24" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-24" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 26 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.3&quot;" />
+      <homePath value="G:\Android\sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/Android/sdk/platforms/android-26/android.jar!/" type="simple" />
+            <root url="file://G:/Android/sdk/platforms/android-26/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-26" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 27 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.3&quot;" />
+      <homePath value="G:\Android\sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/Android/sdk/platforms/android-27/android.jar!/" type="simple" />
+            <root url="file://G:/Android/sdk/platforms/android-27/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-27" />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 28 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;11.0.3&quot;" />
+      <homePath value="G:\Android\sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://G:/Android/sdk/platforms/android-28/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://G:/Android/sdk/platforms/android-28/android.jar!/" type="simple" />
+            <root url="file://G:/Android/sdk/platforms/android-28/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/docs/reference" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://G:/Android/sdk/sources/android-28" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="11" sdk="android-28" />
+    </jdk>
+  </component>
+</application>
